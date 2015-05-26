@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on My New Hugo Site</title>
-    <link>http://localhost:1313/news/</link>
+    <link>http://localhost:1313/totalsimPublic/news/</link>
     <description>Recent content in News on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2015 11:28:33 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/totalsimPublic/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>news2</title>
-      <link>http://localhost:1313/news/news2/</link>
+      <link>http://localhost:1313/totalsimPublic/news/news2/</link>
       <pubDate>Mon, 25 May 2015 11:28:33 -0400</pubDate>
       
-      <guid>http://localhost:1313/news/news2/</guid>
+      <guid>http://localhost:1313/totalsimPublic/news/news2/</guid>
       <description>&lt;!-- will comments be saved? --&gt;
 </description>
     </item>
     
     <item>
       <title>markdown_reference</title>
-      <link>http://localhost:1313/news/markdown_reference/</link>
+      <link>http://localhost:1313/totalsimPublic/news/markdown_reference/</link>
       <pubDate>Sat, 23 May 2015 16:49:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/news/markdown_reference/</guid>
+      <guid>http://localhost:1313/totalsimPublic/news/markdown_reference/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/company/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/totalsimPublic/about/company/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Table of Contents&lt;/p&gt;
 
@@ -197,26 +197,26 @@ Can also link to parts of page using a link tag
 `[imageId]: /images/sample.png  &amp;quot;Image attribute&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/sample.png&#34; alt=&#34;Alt text&#34; title=&#34;Image attribute&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/totalsimPublic/images/sample.png&#34; alt=&#34;Alt text&#34; title=&#34;Image attribute&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test3</title>
-      <link>http://localhost:1313/news/test3/</link>
+      <link>http://localhost:1313/totalsimPublic/news/test3/</link>
       <pubDate>Sat, 23 May 2015 11:32:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/news/test3/</guid>
+      <guid>http://localhost:1313/totalsimPublic/news/test3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test1</title>
-      <link>http://localhost:1313/news/test1/</link>
+      <link>http://localhost:1313/totalsimPublic/news/test1/</link>
       <pubDate>Sat, 23 May 2015 11:31:43 -0400</pubDate>
       
-      <guid>http://localhost:1313/news/test1/</guid>
+      <guid>http://localhost:1313/totalsimPublic/news/test1/</guid>
       <description></description>
     </item>
     
