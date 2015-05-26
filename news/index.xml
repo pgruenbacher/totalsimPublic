@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on My New Hugo Site</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2015 11:28:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>news2</title>
+      <link>http://localhost:1313/news/news2/</link>
+      <pubDate>Mon, 25 May 2015 11:28:33 -0400</pubDate>
+      
+      <guid>http://localhost:1313/news/news2/</guid>
+      <description>&lt;!-- will comments be saved? --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>markdown_reference</title>
+      <link>http://localhost:1313/news/markdown_reference/</link>
+      <pubDate>Sat, 23 May 2015 16:49:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/news/markdown_reference/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/company/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Table of Contents&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#intro&#34;&gt;intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;references&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#linking&#34;&gt;linking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#images&#34;&gt;images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&#34;intro&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;intro:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;This blog uses markdown for content generation. Therefore this post was written in order to provide a quick self-reference for markdown generation.
+Much is copied from &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;daringfireball&lt;/a&gt;, adam&amp;rsquo;s &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;cheatsheset&lt;/a&gt;, and from &lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;wikipedia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Current tools I use are &lt;a href=&#34;https://github.com/SublimeText-Markdown/MarkdownEditing&#34;&gt;sublime-markdown-editing&lt;/a&gt;. I set the colorscheme dark by going to sublime -&amp;gt; preferences -&amp;gt; settings-More -&amp;gt; syntax specific-User and edited the file to have the configuration:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;{
+    &amp;quot;color_scheme&amp;quot;: &amp;quot;Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a name=&#34;references&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;references:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Hugo is slightly trickier than other markdown interpreters&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For tables I simply use html tags. Unfortunately markdown isn&amp;rsquo;t processed within html tags. The pipelines alternative isn&amp;rsquo;t very appealing at all.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;table&amp;gt;
+    &amp;lt;thead&amp;gt;
+        &amp;lt;th&amp;gt;Markdown&amp;lt;/th&amp;gt;
+        &amp;lt;th&amp;gt;Output&amp;lt;/th&amp;gt;
+    &amp;lt;/thead&amp;gt;
+    &amp;lt;tbody&amp;gt;
+        &amp;lt;tr&amp;gt;
+            &amp;lt;td&amp;gt;Example Markdown&amp;lt;/td&amp;gt;
+            &amp;lt;td&amp;gt;Example Ouput&amp;lt;/td&amp;gt;
+        &amp;lt;/tr&amp;gt;
+    &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;table&gt;
+    &lt;thead&gt;
+        &lt;th&gt;Markdown&lt;/th&gt;
+        &lt;th&gt;Output&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Example Markdown&lt;/td&gt;
+            &lt;td&gt;Example Ouput&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code&gt;# Heading 
+## Sub-heading 
+### Another deeper heading
+ 
+*italic*, **bold**, `monospace`, ~~strikethrough~~ .
+ 
+A [link](http://example.com)
+
+Dot list:
+
+  * apples
+  * oranges
+ 
+Numbered list:
+
+  1. apples
+  2. oranges
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;heading:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Heading&lt;/h1&gt;
+
+&lt;h2 id=&#34;sub-heading:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Sub-heading&lt;/h2&gt;
+
+&lt;h3 id=&#34;another-deeper-heading:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Another deeper heading&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code&gt;monospace&lt;/code&gt;, &lt;del&gt;strikethrough&lt;/del&gt; .&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&#34;http://example.com&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dot list:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;apples&lt;/li&gt;
+&lt;li&gt;oranges&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Numbered list:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;apples&lt;/li&gt;
+&lt;li&gt;oranges&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt; This is the first level of quoting.
+&amp;gt;
+&amp;gt; &amp;gt; This is nested blockquote.
+&amp;gt;
+&amp;gt; Back to the first level.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is nested blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Back to the first level.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&#34;linking&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;linking:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Linking&lt;/h2&gt;
+
+&lt;p&gt;Useful for saving your links in a section of the markdown as references&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or (implicit link)-&amp;gt; [MSN] [].
+  `[1]: http://google.com/        &amp;quot;Google&amp;quot;`
+  `[2]: http://search.yahoo.com/  &amp;quot;Yahoo Search&amp;quot;`
+  `[MSN]: http://search.msn.com/    &amp;quot;MSN Search&amp;quot;`
+
+&amp;lt;http://example.com/&amp;gt;
+&amp;lt;address@example.com&amp;gt;
+Can also link to parts of page using a link tag
+[link to header](#headerId)
+
+### Some Header
+&amp;lt;a name=&amp;quot;headerId&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I get 10 times more traffic from &lt;a href=&#34;http://google.com/&#34; title=&#34;Google&#34;&gt;Google&lt;/a&gt; than from
+&lt;a href=&#34;http://search.yahoo.com/&#34; title=&#34;Yahoo Search&#34;&gt;Yahoo&lt;/a&gt; or (implicit link)-&amp;gt; &lt;a href=&#34;http://search.msn.com/&#34; title=&#34;MSN Search&#34;&gt;MSN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34;&gt;http://example.com/&lt;/a&gt;
+&lt;a href=&#34;mailto:address@example.com&#34;&gt;address@example.com&lt;/a&gt;
+Can also link to parts of page using a link tag
+&lt;a href=&#34;#headerId&#34;&gt;link to header&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#34;headerId&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;some-header:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Some Header&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&#34;images&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;images:3f2ad45f54944fc8ae828260292c7d26&#34;&gt;Images&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;![Alt text][imageId]
+
+`[imageId]: /images/sample.png  &amp;quot;Image attribute&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/sample.png&#34; alt=&#34;Alt text&#34; title=&#34;Image attribute&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test3</title>
+      <link>http://localhost:1313/news/test3/</link>
+      <pubDate>Sat, 23 May 2015 11:32:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/news/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/news/test1/</link>
+      <pubDate>Sat, 23 May 2015 11:31:43 -0400</pubDate>
+      
+      <guid>http://localhost:1313/news/test1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

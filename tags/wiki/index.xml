@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiki on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/wiki/</link>
+    <description>Recent content in Wiki on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2015 18:09:04 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>another</title>
+      <link>http://localhost:1313/wiki/geometry/another/</link>
+      <pubDate>Mon, 25 May 2015 18:09:04 -0400</pubDate>
+      
+      <guid>http://localhost:1313/wiki/geometry/another/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>honda</title>
+      <link>http://localhost:1313/wiki/honda/honda/</link>
+      <pubDate>Mon, 25 May 2015 18:09:04 -0400</pubDate>
+      
+      <guid>http://localhost:1313/wiki/honda/honda/</guid>
+      <description>&lt;p&gt;#Honda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sub1</title>
+      <link>http://localhost:1313/wiki/geometry/sub-geometry/sub1/</link>
+      <pubDate>Sun, 24 May 2015 10:02:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/wiki/geometry/sub-geometry/sub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geometry3</title>
+      <link>http://localhost:1313/wiki/geometry/geometry3/</link>
+      <pubDate>Sun, 24 May 2015 09:39:01 -0400</pubDate>
+      
+      <guid>http://localhost:1313/wiki/geometry/geometry3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geometry2</title>
+      <link>http://localhost:1313/wiki/geometry/geometry2/</link>
+      <pubDate>Sat, 23 May 2015 21:58:46 -0400</pubDate>
+      
+      <guid>http://localhost:1313/wiki/geometry/geometry2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
