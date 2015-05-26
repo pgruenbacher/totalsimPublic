@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on My New Hugo Site</title>
-    <link>http://localhost:1313/totalsimPublic/tags/services/</link>
+    <link>http://pgruenbacher.github.io/totalsimPublic/tags/services/</link>
     <description>Recent content in Services on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 May 2015 11:12:02 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/totalsimPublic/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pgruenbacher.github.io/totalsimPublic/tags/services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CFD_Hardware</title>
-      <link>http://localhost:1313/totalsimPublic/services/CFD_Hardware/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/services/CFD_Hardware/</link>
       <pubDate>Sat, 23 May 2015 11:12:02 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/services/CFD_Hardware/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/services/CFD_Hardware/</guid>
       <description>
 
 &lt;h2 id=&#34;hardware:5a023ba5d369891166b1ded5f7752210&#34;&gt;Hardware&lt;/h2&gt;

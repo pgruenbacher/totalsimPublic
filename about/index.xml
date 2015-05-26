@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on My New Hugo Site</title>
-    <link>http://localhost:1313/totalsimPublic/about/</link>
+    <link>http://pgruenbacher.github.io/totalsimPublic/about/</link>
     <description>Recent content in Abouts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 May 2015 11:10:57 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/totalsimPublic/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pgruenbacher.github.io/totalsimPublic/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/totalsimPublic/about/company/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/about/company/</link>
       <pubDate>Sat, 23 May 2015 11:10:57 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/about/company/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/about/company/</guid>
       <description>
 
 &lt;p&gt;We are Total Sim&lt;/p&gt;
@@ -28,7 +28,7 @@
 &lt;h1 id=&#34;team:6987eea426d745ed1851414822c2c6fd&#34;&gt;Team&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ray-leto:6987eea426d745ed1851414822c2c6fd&#34;&gt;Ray Leto&lt;/h2&gt;
@@ -56,7 +56,7 @@ free.com||spam
 &lt;p&gt;Ray brings more than 20 years of high pressure racing experience to his role as president of Total Sim LLC, based in Dublin, Ohio. He continues innovation and leadership as an accomplished Engineer and Manager lending his extensive aerodynamic experience, a strong focus on simulation, systems integration, and program implementation to clients in motorsports and other fields where rapid change is essential.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;naethan-eagles:6987eea426d745ed1851414822c2c6fd&#34;&gt;Naethan Eagles&lt;/h2&gt;
@@ -86,7 +86,7 @@ free.com||spam
 &lt;p&gt;Naethan decide to leave Williams F1 in 2010 to join TotalSim so he can transfer what he&amp;rsquo;s learned during his time at the &amp;lsquo;bleeding edge&amp;rsquo; of motorsports and design and bring it to bear on new areas and project types. As of January 2011 Naethan has become a fulltime member of the TotalSim USA team and will be a great resource and asset not only for TotalSim, but all of our customers as well.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;rob-lewis:6987eea426d745ed1851414822c2c6fd&#34;&gt;Rob Lewis&lt;/h2&gt;
@@ -115,7 +115,7 @@ free.com||spam
 &lt;p&gt;Having worked together while at A-CFD and Team Rahal respectivly, Rob and Ray began discussions in 2007 on the idea of forming a US version of TotalSim to service key clients, and expand the use of OpenFOAM in the USA. In early 2009, Total Sim LLC started as a joint venture between TotalSim Ltd and the employees of this new company based in the US. Rob and TotalSim Ltd are also expanding into Italy via a new partnership with Y-Com forming Y-Sim in mid-2010.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sergio-rinland:6987eea426d745ed1851414822c2c6fd&#34;&gt;Sergio Rinland&lt;/h2&gt;
@@ -147,7 +147,7 @@ free.com||spam
 &lt;p&gt;Sergio also holds an MBA from Kingston University, UK, and his insight into both the design and business worlds are invaluable to TotalSim.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ted-pandaleon:6987eea426d745ed1851414822c2c6fd&#34;&gt;Ted Pandaleon&lt;/h2&gt;
@@ -171,7 +171,7 @@ free.com||spam
 &lt;p&gt;While in school Ted held a wide variety of co-op and intern positions, ranging from working with a Heavy Equipment Manufacture to working for an IndyCar team. Ted&amp;rsquo;s MSc emphasis on, and personal interest in Automotive / Race Car Aerodynamics makes him a perfect fit for TotalSim&amp;rsquo;s core customer base.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;greg-padgett:6987eea426d745ed1851414822c2c6fd&#34;&gt;Greg Padgett&lt;/h2&gt;
@@ -197,7 +197,7 @@ free.com||spam
 &lt;p&gt;Although Greg has only been with us a short time he&amp;rsquo;s already become our go-to ANSA pre-processing expert.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;mark-swift:6987eea426d745ed1851414822c2c6fd&#34;&gt;Mark Swift&lt;/h2&gt;
@@ -223,7 +223,7 @@ free.com||spam
 &lt;p&gt;Along with his aerodyamnics and fluids work with TotalSim, Mark has, in his first year with us, become one of our best Python, database, and interface programmers.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;andy-luo:6987eea426d745ed1851414822c2c6fd&#34;&gt;Andy Luo&lt;/h2&gt;
@@ -249,7 +249,7 @@ free.com||spam
 &lt;p&gt;We are really excited to have Andy on-board focusing on the aerospace industry.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;miguel-class:6987eea426d745ed1851414822c2c6fd&#34;&gt;Miguel Class&lt;/h2&gt;
@@ -273,7 +273,7 @@ free.com||spam
 &lt;p&gt;At TotalSim, Miguel has focused on geometry prep, OpenFOAM case building and has turned into one of the go-to engineers we have for industrial and specialty problems.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ryan-winfree:6987eea426d745ed1851414822c2c6fd&#34;&gt;Ryan Winfree&lt;/h2&gt;
@@ -299,7 +299,7 @@ free.com||spam
 &lt;p&gt;Ryan is focused on geometry prep and learning OpenFOAM during his internship and now full time he&amp;rsquo;s managing full CFD project from geometry prep, thru solving and post-processing. Ryan&amp;rsquo;s also been applying his scripting an programming skill to our process.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;david-hesse:6987eea426d745ed1851414822c2c6fd&#34;&gt;David Hesse&lt;/h2&gt;
@@ -325,7 +325,7 @@ free.com||spam
 &lt;p&gt;We are really excited to have David on-board as we expand our reach into process engineering and broader industry.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;avatar left&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/totalsimPublic/images/placeholder.png&#34;/&gt;
+    &lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/placeholder.png&#34;/&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;bb3:6987eea426d745ed1851414822c2c6fd&#34;&gt;BB3&lt;/h2&gt;

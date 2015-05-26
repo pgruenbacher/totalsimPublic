@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on My New Hugo Site</title>
-    <link>http://localhost:1313/totalsimPublic/categories/development/</link>
+    <link>http://pgruenbacher.github.io/totalsimPublic/categories/development/</link>
     <description>Recent content in Development on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2015 18:09:04 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/totalsimPublic/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pgruenbacher.github.io/totalsimPublic/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>another</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/geometry/another/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/another/</link>
       <pubDate>Mon, 25 May 2015 18:09:04 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/geometry/another/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/another/</guid>
       <description></description>
     </item>
     
     <item>
       <title>honda</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/honda/honda/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/honda/honda/</link>
       <pubDate>Mon, 25 May 2015 18:09:04 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/honda/honda/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/honda/honda/</guid>
       <description>&lt;p&gt;#Honda&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>news2</title>
-      <link>http://localhost:1313/totalsimPublic/news/news2/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/news/news2/</link>
       <pubDate>Mon, 25 May 2015 11:28:33 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/news/news2/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/news/news2/</guid>
       <description>&lt;!-- will comments be saved? --&gt;
 </description>
     </item>
     
     <item>
       <title>consulting</title>
-      <link>http://localhost:1313/totalsimPublic/services/consulting/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/services/consulting/</link>
       <pubDate>Sun, 24 May 2015 15:04:10 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/services/consulting/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/services/consulting/</guid>
       <description>
 
 &lt;h2 id=&#34;total-sim-offers-consulting-training-support-and-development:a25d6bd4dcb7d62219c6846057abf7cb&#34;&gt;Total Sim offers Consulting, Training, Support and Development.&lt;/h2&gt;
@@ -104,85 +104,85 @@ Quick results take your design from idea to high performance reality in short ti
     
     <item>
       <title>sub1</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/geometry/sub-geometry/sub1/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/sub-geometry/sub1/</link>
       <pubDate>Sun, 24 May 2015 10:02:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/geometry/sub-geometry/sub1/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/sub-geometry/sub1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geometry3</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/geometry/geometry3/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry3/</link>
       <pubDate>Sun, 24 May 2015 09:39:01 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/geometry/geometry3/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geometry2</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/geometry/geometry2/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry2/</link>
       <pubDate>Sat, 23 May 2015 21:58:46 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/geometry/geometry2/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geometry1</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/geometry/geometry1/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry1/</link>
       <pubDate>Sat, 23 May 2015 21:47:52 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/geometry/geometry1/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/geometry/geometry1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scripts2</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/scripts/scripts2/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/scripts/scripts2/</link>
       <pubDate>Sat, 23 May 2015 19:27:13 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/scripts/scripts2/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/scripts/scripts2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scripts1</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/scripts/scripts1/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/scripts/scripts1/</link>
       <pubDate>Sat, 23 May 2015 19:27:08 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/scripts/scripts1/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/scripts/scripts1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>info2</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/info/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/info/</link>
       <pubDate>Sat, 23 May 2015 19:26:57 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/info/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>info1</title>
-      <link>http://localhost:1313/totalsimPublic/wiki/info1/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/wiki/info1/</link>
       <pubDate>Sat, 23 May 2015 19:26:51 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/wiki/info1/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/wiki/info1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown_reference</title>
-      <link>http://localhost:1313/totalsimPublic/news/markdown_reference/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/news/markdown_reference/</link>
       <pubDate>Sat, 23 May 2015 16:49:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/news/markdown_reference/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/news/markdown_reference/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/totalsimPublic/about/company/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pgruenbacher.github.io/totalsimPublic/about/company/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Table of Contents&lt;/p&gt;
 
@@ -352,26 +352,26 @@ Can also link to parts of page using a link tag
 `[imageId]: /images/sample.png  &amp;quot;Image attribute&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/totalsimPublic/images/sample.png&#34; alt=&#34;Alt text&#34; title=&#34;Image attribute&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://pgruenbacher.github.io/totalsimPublic/images/sample.png&#34; alt=&#34;Alt text&#34; title=&#34;Image attribute&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test3</title>
-      <link>http://localhost:1313/totalsimPublic/news/test3/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/news/test3/</link>
       <pubDate>Sat, 23 May 2015 11:32:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/news/test3/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/news/test3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test1</title>
-      <link>http://localhost:1313/totalsimPublic/news/test1/</link>
+      <link>http://pgruenbacher.github.io/totalsimPublic/news/test1/</link>
       <pubDate>Sat, 23 May 2015 11:31:43 -0400</pubDate>
       
-      <guid>http://localhost:1313/totalsimPublic/news/test1/</guid>
+      <guid>http://pgruenbacher.github.io/totalsimPublic/news/test1/</guid>
       <description></description>
     </item>
     
